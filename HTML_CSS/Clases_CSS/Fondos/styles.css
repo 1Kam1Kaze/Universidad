@@ -1,0 +1,21 @@
+body {
+    background-color: #0f0;
+}
+
+.box {
+    width: 400px;
+    height: 200px;
+    margin: 20px;
+    background: url("https://www.adslzone.net/app/uploads-adslzone.net/2019/04/borrar-fondo-imagen-1.jpg") left / cover fixed #6fa
+}
+
+.opaco {
+    height: 100%;
+    width: 100%;
+    background-color: #000a;
+}
+
+h2 {
+    text-align: center;
+    padding: 20px;
+}
